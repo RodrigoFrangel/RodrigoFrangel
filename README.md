@@ -30,8 +30,8 @@ Sou estudante de **Desenvolvimento Web** na Trybe e sonho em poder contribuir ao
 
 #### :computer: Linguagens de programação e ferramentas: 
 <p>
-  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=RodrigoFrangel&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-
+  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=RodrigoFrangel&show_icons=true&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=30,e96443,904e95" />
+  
 <code><img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img width="6.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
