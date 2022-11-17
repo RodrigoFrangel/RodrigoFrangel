@@ -10,22 +10,22 @@
 
 ### Olá, sou Rodrigo Frangel!
 
-Sou estudante de **Desenvolvimento Web** na Trybe e sonho em poder contribuir ao mundo com soluções práticas e intuitivas para alguns dos problemas que vivenciamos hoje! Amo aprender línguas novas e coisas nerds!  
+Sou **Engenheiro de Software** formado pela Trybe e sonho em poder contribuir ao mundo com soluções práticas e intuitivas para alguns dos problemas que vivenciamos hoje! Amo aprender línguas novas e coisas nerds!  
 
 
 #### Um pouco sobre mim:
-- 🎮 Meus hobbies são jogar e assistir filmes/séries/animes;
-- 🧠 Estou buscando me conhecer melhor como pessoa;
+- 🎮 Meus hobbies são jogar RPG e assistir filmes/séries e animes;
+- 🧠 Estou buscando me aprimorar como pessoa;
 - 💻 Quero evoluir na minha carreira de desenvolvedor;
 - 🌎 Falo inglês fluentemente e planejo morar ou trabalhar fora do Brasil;
 - 📫 Meu email para contato é **rodrigo.frangel@hotmail.com**.
-- 📄 Quando terminado, este será meu <a href="" target="_blank">currículo</a>.
+- 📄 Aqui você pode baixar meu <a href="https://drive.google.com/drive/u/0/folders/1-OgV48r6x2wHoflAOzii-7j1qcyaiS5Q" target="_blank">currículo</a>.
 
 
 #### 🌱 Coisas que estou aprendendo agora: 
-- React - Redux, Context API, Hooks  
-- UI Design (*em segundo plano*)
-- Japonês 日本語 🇯🇵 
+- Backend - Node.js, TypeScript, MySQL, Express
+- Boas práticas de desenvolvimento
+- Outras línguas, como Japonês e Libras 
 
 
 #### :computer: Linguagens de programação e ferramentas: 
