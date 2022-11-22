@@ -33,13 +33,20 @@ I'm a **Software Engineer** graduated from Trybe and I dream of being able to co
 <p>
   <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=RodrigoFrangel&show_icons=true&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=30,e96443,904e95" />
   
-<code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
-<code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img width="3.25%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<br />
-<code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg"></code>
-<code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
-<code><img width="3.25%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
+<img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+<img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+<img width="3.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img width="3.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  
+<img width="3.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+<img width="3.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+<br>
+<img width="4.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img width="3.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+<img width="3.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img width="3.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg">
+<img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+<img width="3.3%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg">
 </p>
 
 <sub>Inspired by [FernandoRoldan93](https://github.com/FernandoRoldan93)</sub>
