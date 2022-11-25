@@ -7,7 +7,7 @@
 
 ### Olá, sou Rodrigo Frangel!
 
-I'm a **Software Engineer** who dreams of being able to contribute to the world with practical and intuitive solutions for some of the problems we face today! Arthur C. Clark once said: "Any sufficiently advanced technology is indistinguishable from magic." So, let's do some magic!
+I'm a **Software Engineer** who dreams of being able to contribute to the world with practical and intuitive solutions for some of the problems we face today! Arthur C. Clark once said: "_Any sufficiently advanced technology is indistinguishable from magic._" So, let's do some magic!
 
 
 #### A little about myself:
