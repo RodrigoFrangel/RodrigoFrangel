@@ -5,26 +5,26 @@
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
-### Olá, sou Rodrigo Frangel!
+## Hello, I'm Rodrigo Frangel!
 
-I'm a **Software Engineer** who dreams of being able to contribute to the world with practical and intuitive solutions for some of the problems we face today! Arthur C. Clark once said: "_Any sufficiently advanced technology is indistinguishable from magic._" So, let's do some magic!
+I'm a **Software Engineer** who has spent the last few years studying and improving as a developer. As Arthur C. Clarke once said, "_Any sufficiently advanced technology is indistinguishable from magic_." By that logic, I'm practically a wizard 🧙‍♂️, mate!
 
 
 #### A little about myself:
-- 🎮 Every sunday I get together with friends to play tabletop RPG;
-- 🤓 Watching movies, series and anime has always been a passion of mine;
-- 🧠 I'm looking to better know myself and grow as a person;
-- 💻 I want to evolve in my career as a developer and help others thrive;
-- 🌎 I love learning new languages and the culture behind them;
+- 🎮 Since childhood, video games have been a significant part of my life.
+- 🤓 Watching movies, series, and anime has always been a passion of mine.
+- 🧠 I am eager to better understand myself and grow as a person.
+- 💻 I aim to advance in my career as a developer and support others in their growth.
+- 🌎 I love learning new languages and exploring the cultures behind them.
 - 📫 You can email me at **rodrigo.frangel@hotmail.com**;
-- 👨🏻‍💻 Or find everything you need in my <a href="https://rodrigofrangel.carrd.co" target="_blank">portfolio</a>;
-- 📄 Here you can download my <a href="https://drive.google.com/drive/u/0/folders/1-OgV48r6x2wHoflAOzii-7j1qcyaiS5Q" target="_blank">resume</a>.
+- 👨🏻‍💻 Find everything you need in my <a href="https://rodrigofrangel.carrd.co" target="_blank">portfolio</a>;
+- 📄 Download my <a href="https://drive.google.com/drive/u/0/folders/1-OgV48r6x2wHoflAOzii-7j1qcyaiS5Q" target="_blank">resume</a>.
 
 
 #### 🌱 Things I'm learning right now:
-- Backend - TypeScript, Node.js, MySQL, Express, MongoB
-- Coding best practices - such as chaos engineering
-- Other languages, such as Japanese and Brazilian Sign Language
+- Programming languages: Python, C#
+- Coding best practices and how to be a better analyst
+- Languages: Japanese, Brazilian Sign Language
 
 
 #### :computer: Programming languages and frameworks I know: 
@@ -37,7 +37,7 @@ I'm a **Software Engineer** who dreams of being able to contribute to the world 
 <img width="3.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img width="3.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img width="3.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-<img width="3.1%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+<img width="3.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 <br>
 <img width="4.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img width="3.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
