@@ -11,13 +11,13 @@ Sou um **Desenvolvedor de Software** que está sempre estudando e buscando evolu
 - 🎮 Desde a infância, os videogames foram uma parte importante da minha vida.
 - 🤓 Assistir a filmes, séries e animes sempre foi uma paixão minha.
 - 🧠 Adoro estudar para crescer como desenvolvedor.
-- 📫 Você pode me enviar um e-mail em **rodrigo.frangel@hotmail.com**;
-- 👨🏻‍💻 Encontre tudo o que precisa no meu <a href="https://rodrigofrangel.carrd.co" target="_blank">portfólio</a>; (_desatualizado_)
+- 📫 Você pode me enviar um e-mail em **rodrigo.frangel@hotmail.com**.
+- 👨🏻‍💻 Encontre tudo o que precisa no meu <a href="https://rodrigofrangel.carrd.co" target="_blank">portfólio</a> (_desatualizado_).
 
 #### 🌱 Coisas que estou aprendendo no momento:
 - SQL Server e C#
 - Cibersegurança pela Google
-- Spring Boot e AngularJS
+- Gestão de Projetos e Engenharia de Software
 
 
 #### :computer: Tecnologias com as quais mais trabalho: 
@@ -36,4 +36,5 @@ Sou um **Desenvolvedor de Software** que está sempre estudando e buscando evolu
 <img width="3.7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img width="3.7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
 <img width="3.7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
+<img width="3.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
 </p>
